@@ -5,8 +5,8 @@
 }
 
 #tictactoe td {
-  min-height: 100px;
-  min-width: 100px;
+  min-height: 120px;
+  min-width: 180px;
   height: 100px;
   width: 100px;
   text-align: center;
@@ -38,7 +38,7 @@
 }
 
 #score th {
-  border-bottom: thin solid black;
+  border-bottom: thin solid blue;
 }
 
 #score h2 { margin-top: 0; }
